@@ -10,6 +10,15 @@ Features
 - Saves reports to specified directories.
 - Supports both single
 
+Dependencies and requirements
+1. Java 17
+2. Spring boot maven
+3. spring boot starter
+4. springboot starter data jpa
+5. he databse
+6. apache commons
+   
+
 Setup Instructions
 1. Copy the repository to your local machine.
 2. Ensure you have Java and Maven installed.
